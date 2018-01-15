@@ -1,0 +1,19 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.articleCardContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;    
+}
+
+.carditem{
+    width: 320px;
+}
+
+.title{
+    font-size: 40px;
+}
