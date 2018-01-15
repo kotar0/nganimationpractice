@@ -1,0 +1,11 @@
+.menu{
+    display: flex;
+    height: 60px;
+    background-color: #ccc;
+}
+
+.logo{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
